@@ -2,7 +2,7 @@
 
 Time spent: **2** hours spent in total setup
 
-Honeypots ran for an additional **1** hour.
+Honeypots ran for an additional **11** hours.
 
 > Objective: Setup a honeypot and intercept some attempted attacks in the wild.
 
@@ -34,11 +34,13 @@ Shockpot - Shockpot is a web app honeypot designed to find attackers attempting 
 
 ## Summary of the data collected
 
- - As of 10:47 AM EST: There have been 96 attacks (29 from nmap step) all of which have attacked the dionaea honeypot.
+ - As of 8:00 PM EST: There have been 1,006 attacks (29 from nmap step) all of which have attacked the dionaea honeypot.
  
  - No attacks have been observed on the other honeypots.
+ 
+ - There are a lot of pcap attacks: from what I can see, this is just a packet capture attack.
 
 ## Unresolved Questions
 
- - I do not have any questions as of right now.
+ - I am wondering what I did wrong on the other setups that didn't allow them to be attacked.
 
